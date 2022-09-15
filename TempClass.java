@@ -4,5 +4,6 @@ public class TempClass {
         System.out.println("Hello");
         System.out.println("new branch");
         System.out.println("new branch2");
+        System.out.println("new branch2");
     }
 }
